@@ -3,9 +3,9 @@
 
 1. Formular el objetivo
 2. Formular el problema
-	 - Estado inicial
-	 - Espacio de estados
-	 - Acciones
+	 - Estado inicial: Es la situación inicial del problema
+	 - Espacio de estados: Es el conjunto de situaciones diferentes en el que puede estar el problema
+	 - Acciones: Acciones que pue
 	 - Modelo de transición
 	 - Costo de camino
 3. Buscar la solución
@@ -15,6 +15,7 @@
 AQUI VA LA IMAGEN PAGINA 5
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ4MTg2MjMsNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTI1NDQ2MDM0NSw0OTc4MTg4MTBdfQ==
 -->
