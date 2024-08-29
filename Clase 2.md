@@ -22,11 +22,13 @@ Encontrar la secuencia de acciones para llegar un objetivo
 
 **5. Ejecutar la solución**
 
-AQUI VA LA IMAGEN PAGINA 5
+AQUI VA LA IMAGEN PAGINA 7
+
+Problema 1: Busqueda de ruta
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OT
-c4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTIyMDY2ODEzNCwxMjI1OTY4NDk4LC0xMj
+c0Nzc4NTA5LDQ5NzgxODgxMF19
 -->
