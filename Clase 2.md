@@ -79,11 +79,11 @@ AQUI VA LA IMAGEN PAGINA 8
 
 **Importante: El árbol de búsqueda es distinto a un espacio de estados!**
 
-Un nodo del árbol de búsqueda 
+Un nodo del árbol de búsqueda es una estructura de datos que implementa el árbol de búsqueda. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzAyMDMzOSwxNzE0NjQ4MjIwLC0xMT
+eyJoaXN0b3J5IjpbLTg2MjMxNjA3MSwxNzE0NjQ4MjIwLC0xMT
 M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
 NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
 A5LDQ5NzgxODgxMF19
