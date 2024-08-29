@@ -51,18 +51,18 @@ AQUI VA LA IMAGEN PAGINA 8
 AQUI VA LA IMAGEN PAGINA 8
 
 **- Estados:** Vector de 8 números no repetidos (permutaciones). Cada elemento indica la fila en que se encuntra la reina en una columna.
-**- Estado inicial:** 0 reinas en el tablero
-**- Acciones:** Adicionar una reina a un casillero vacío
+**- Estado inicial:** Permutación aleatoria.
+**- Acciones:** Intercambiar 2 elementos.
 **- Modelo de transición:** NO ENTIENDO
-**- Prueba de objetivo:** Verificar si el estado es el objetivo.
+**- Prueba de objetivo:** Verificar si la nueva permutación tiene reinas no atacadas. 
 **- Costo del camino:** Cada acción cuesta 1. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzA0MjM3MCwtMTEzOTQwMzg4OSwtMT
-I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
-NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
-BdfQ==
+eyJoaXN0b3J5IjpbLTE5NTM3NDEzNDksLTExMzk0MDM4ODksLT
+EyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQz
+NTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4OD
+EwXX0=
 -->
