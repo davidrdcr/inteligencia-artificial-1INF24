@@ -37,7 +37,7 @@ AQUI VA LA IMAGEN PAGINA 7
 
 **Problema 2: 8-puzzle:**
 
-AQUI VA LA IMAGEN PAGINA 
+AQUI VA LA IMAGEN PAGINA 8
 
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
 **- Estado inicial:** Alguna configuración dada del puzzle. 
@@ -46,11 +46,22 @@ AQUI VA LA IMAGEN PAGINA
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** Cada acción cuesta 1. 
 
+**Problema 3: 8-queens:**
+
+AQUI VA LA IMAGEN PAGINA 8
+
+**- Estados:** Configuraciones de 0 a 8 reinas en el tablero. 
+**- Estado inicial:** 0 reinas en el tablero
+**- Acciones:** Adicionar una reina a un casillero vacío
+**- Modelo de transición:** NO ENTIENDO
+**- Prueba de objetivo:** Verificar si el estado es el objetivo.
+**- Costo del camino:** Cada acción cuesta 1. 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODM1MDEwMSwtMTI2MzE2OTgyNiwtMj
-A0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2
-ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
+IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
+Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
