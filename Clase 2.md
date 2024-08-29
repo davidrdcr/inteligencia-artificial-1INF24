@@ -77,22 +77,19 @@ AQUI VA LA IMAGEN PAGINA 8
 -	Debemos expandir el estado actual aplicando la función sucesor, generando nuevos estados.
 -	Debemos tener una **estrategia de búsqueda** que determina el camino a seguir. Es decir, debemos decidir qué nodos se exploran primero y cuáles se dejan para después. 
 
+**Importante: El árbol de búsqueda es distinto a un espacio de estados!**
 
-> **Importante: El árbol de búsqueda es distinto a un espacio de estados!**
-> 
-> -	Un nodo del árbol de búsqueda es una estructura de datos que implementa el árbol de búsqueda. 
-> -	Un estado del espacio de estados es una configuración física.
-> 
-> Por ejemplo, el mapa de Romania tiene 20 estados mientras que el arbol
-> de búsqueda de Romania tiene tamaño infinito, ya que hay caminos
-> infinitos: Arab- Sibiu - Arab - Sibiu - ....
+-	Un nodo del árbol de búsqueda es una estructura de datos que implementa el árbol de búsqueda. 
+-	Un estado del espacio de estados es una configuración física.
 
+-	Por ejemplo, el mapa de Romania tiene 20 estados mientras que el arbol de búsqueda de Romania tiene tamaño infinito, ya que hay caminos infinitos: Arab- Sibiu - Arab - Sibiu - ....
 
-
+-	En grafo de espacio estados cada estado es representado por un único nodo.
+-	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxMTA4OSwxNzE0NjQ4MjIwLC0xMT
+eyJoaXN0b3J5IjpbMTgyNTM4MzUzMiwxNzE0NjQ4MjIwLC0xMT
 M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
 NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
 A5LDQ5NzgxODgxMF19
