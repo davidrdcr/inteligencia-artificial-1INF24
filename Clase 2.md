@@ -47,19 +47,19 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Costo del camino:** Cada acción cuesta 1. 
 
 
-**Problema 2: 8-puzzle:**
+**Problema 3: 8-queens:**
 
 AQUI VA LA IMAGEN PAGINA 8
 
-**- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
-**- Estado inicial:** Alguna configuración dada del puzzle. 
+**- Estados:** Configuraciones de 0 a 8 reinas en el tablero. 
+**- Estado inicial:** 0 reinas en e
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
 **- Modelo de transición:** Tablero con reina añadida???NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 64*63*...57= 1.8x10^14
 
-**Problema 3: 8-queens:**
+**Problema 4: 8-queens:**
 
 AQUI VA LA IMAGEN PAGINA 8
 
@@ -75,8 +75,8 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4OTI1MjksMTcxNDY0ODIyMCwtMT
-EzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3
-ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3OD
-UwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTMwOTMwMDE4OSwxNzE0NjQ4MjIwLC0xMT
+M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
+NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
+A5LDQ5NzgxODgxMF19
 -->
