@@ -42,9 +42,9 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
 **- Estado inicial:** Alguna configuración dada del puzzle. 
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
-**- Modelo de transición:** NO ENTIENDO
+**- Modelo de transición:** Tablero con reina añadida???NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
-**- Costo del camino:** Cada acción cuesta 1. 
+**- Costo del camino:** -
 **- Posibles secuencias a investigar:** 64*63*...57= 1.8x10^14
 
 **Problema 3: 8-queens:**
@@ -54,7 +54,7 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Vector de 8 números no repetidos (permutaciones). Cada elemento indica la fila en que se encuntra la reina en una columna.
 **- Estado inicial:** Permutación aleatoria.
 **- Acciones:** Intercambiar 2 elementos.
-**- Modelo de transición:** NO ENTIENDO
+**- Modelo de transición:** -
 **- Prueba de objetivo:** Verificar si la nueva permutación tiene reinas no atacadas. 
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 8x7x6x5x4x3x2x1 = 40320
@@ -62,7 +62,7 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTY1MjA5NSwtMTEzOTQwMzg4OSwtMT
+eyJoaXN0b3J5IjpbMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMT
 I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
 NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
 BdfQ==
