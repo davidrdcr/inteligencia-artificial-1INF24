@@ -2,13 +2,14 @@
 **Pasos para que un agente resuelva problemas**
 
 **1. Formular el objetivo**
+
 - asdsad
 
 **2. Formulación del problema**
 
 **- Estado inicial:** Es la situación inicial del problema.
 
-**- Espacio de estados:** Es el conjunto de situaciones diferentes en el que puede estar el problema. El estado inicial, las acciones y el modelo de transición (función sucesor) determinan el espacio estados
+**- Espacio de estados:** Es el conjunto de situaciones diferentes en el que puede estar el problema. El estado inicial, las acciones y el modelo de transición (función sucesor) determinan el espacio estados. El espacio estados puede estar representado con un grafo, donde los nodos representan estados y los arcos acciones.
 
 **- Acciones:** Acciones que pueden ser realizadas desde un determinado estado s. Actions(s)
 
@@ -26,6 +27,6 @@ AQUI VA LA IMAGEN PAGINA 5
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTE2MjEyMSwtMTI3NDc3ODUwOSw0OT
+eyJoaXN0b3J5IjpbMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OT
 c4MTg4MTBdfQ==
 -->
