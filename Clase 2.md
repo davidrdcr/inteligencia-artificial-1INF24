@@ -79,8 +79,8 @@ AQUI VA LA IMAGEN PAGINA 8
 
 **Importante: El árbol de búsqueda es distinto a un espacio de estados!**
 
--	Un nodo del árbol de búsqueda es una estructura de datos que implementa el árbol de búsqueda. 
--	Un estado del espacio de estados es una configuración física.
+-	Un nodo del **árbol de búsqueda** es una estructura de datos que implementa el árbol de búsqueda. 
+-	Un estado del **espacio de estados** es una configuración física.
 
 -	Por ejemplo, el mapa de Romania tiene 20 estados mientras que el arbol de búsqueda de Romania tiene tamaño infinito, ya que hay caminos infinitos: Arab- Sibiu - Arab - Sibiu - ....
 
@@ -89,8 +89,8 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY3OTA2MzcsMTgyNTM4MzUzMiwxNz
-E0NjQ4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQw
-ODg1OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4ND
-k4LC0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTI0MzI2MDE0MSwxODI1MzgzNTMyLDE3MT
+Q2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLTIwNDA4
+ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OT
+gsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
