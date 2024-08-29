@@ -45,6 +45,7 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Modelo de transición:** NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** Cada acción cuesta 1. 
+**- Posibles secuencias a investigar:** 64*63*...57= 1.8x10^14
 
 **Problema 3: 8-queens:**
 
@@ -55,14 +56,14 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Acciones:** Intercambiar 2 elementos.
 **- Modelo de transición:** NO ENTIENDO
 **- Prueba de objetivo:** Verificar si la nueva permutación tiene reinas no atacadas. 
-**- Costo del camino:** Cada acción cuesta 1. 
-
+**- Costo del camino:** -
+**- Posibles secuencias a investigar:** 8x7x6x5x4x3x2x1 = 40320
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM3NDEzNDksLTExMzk0MDM4ODksLT
-EyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQz
-NTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4OD
-EwXX0=
+eyJoaXN0b3J5IjpbLTc3OTY1MjA5NSwtMTEzOTQwMzg4OSwtMT
+I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
+NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
+BdfQ==
 -->
