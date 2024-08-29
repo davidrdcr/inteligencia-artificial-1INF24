@@ -22,21 +22,25 @@ Encontrar la secuencia de acciones para llegar un objetivo
 
 **5. Ejecutar la solución**
 
-AQUI VA LA IMAGEN PAGINA 7
+## EJEMPLOS
 
-Problema 1: Busqueda de ruta en mapa:
+**Problema 1: Busqueda de ruta en mapa:**
+
+AQUI VA LA IMAGEN PAGINA 7
 
 **- Estados:** Todas las posibles ciudades son los estados
 **- Estado inicial:** Ciudad de la que parto.
 **- Acciones:** Moverse a  alguna ciudad vecina
 **- Modelo de transición:** Mapa
 **- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
+**- Costo del camino:** Puede ser el tiempo, la distancia recorrida, etc.
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDkwMzUxMCwxMjI1OTY4NDk4LC0xMj
-c0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMT
+I3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 -->
