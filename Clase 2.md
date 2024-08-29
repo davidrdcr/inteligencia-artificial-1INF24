@@ -35,12 +35,21 @@ AQUI VA LA IMAGEN PAGINA 7
 **- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
 **- Costo del camino:** Puede ser el tiempo, la distancia recorrida, etc.
 
+**Problema 2: 8-puzzle:**
 
+AQUI VA LA IMAGEN PAGINA 7
+
+**- Estados:** Todas las posibles ciudades son los estados
+**- Estado inicial:** Ciudad de la que parto.
+**- Acciones:** Moverse a  alguna ciudad vecina
+**- Modelo de transición:** Mapa
+**- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
+**- Costo del camino:** Puede ser el tiempo, la distancia recorrida, etc.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMT
-I3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMj
+U5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
