@@ -90,12 +90,16 @@ AQUI VA LA IMAGEN PAGINA 8
 El nodo debe incluir la siguiente información:
 -	Estado
 -	Nodo padre
+-	Acción que generó el nodo
+-	Costo del camino desde el nodo raíz
+-	
+-	
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU1NDE1MjIsMTgyNTM4MzUzMiwxNz
-E0NjQ4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQw
-ODg1OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4ND
-k4LC0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTUwODI4MTk5LDE4MjUzODM1MzIsMTcxND
+Y0ODIyMCwtMTEzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4
+NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OC
+wtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 -->
