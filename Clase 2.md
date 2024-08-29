@@ -50,7 +50,7 @@ AQUI VA LA IMAGEN PAGINA 8
 
 AQUI VA LA IMAGEN PAGINA 8
 
-**- Estados:** Configuraciones de 0 a 8 reinas en el tablero. 
+**- Estados:** Vector de 8 números no repetidos (permutaciones). Cada elemento indica la fila en que se encuntra la reina en una columna.
 **- Estado inicial:** 0 reinas en el tablero
 **- Acciones:** Adicionar una reina a un casillero vacío
 **- Modelo de transición:** NO ENTIENDO
@@ -61,7 +61,8 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
-IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
-Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTA2MzA0MjM3MCwtMTEzOTQwMzg4OSwtMT
+I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
+NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
+BdfQ==
 -->
