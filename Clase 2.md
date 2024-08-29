@@ -8,7 +8,7 @@
 
 **- Estado inicial:** Es la situación inicial del problema.
 
-**- Espacio de estados:** Es el conjunto de situaciones diferentes en el que puede estar el problema.
+**- Espacio de estados:** Es el conjunto de situaciones diferentes en el que puede estar el problema. El estado inicial, las acciones y el modelo de transición (función sucesor) determinan el espacio estados
 
 **- Acciones:** Acciones que pueden ser realizadas desde un determinado estado s. Actions(s)
 
@@ -26,5 +26,6 @@ AQUI VA LA IMAGEN PAGINA 5
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTMyMTE2MjEyMSwtMTI3NDc3ODUwOSw0OT
+c4MTg4MTBdfQ==
 -->
