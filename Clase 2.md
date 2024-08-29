@@ -84,13 +84,13 @@ AQUI VA LA IMAGEN PAGINA 8
 
 -	Por ejemplo, el mapa de Romania tiene 20 estados mientras que el arbol de búsqueda de Romania tiene tamaño infinito, ya que hay caminos infinitos: Arab- Sibiu - Arab - Sibiu - ....
 
--	En grafo de espacio estados cada estado es representado por un único nodo.
--	
+-	En el grafo de espacio estados cada estado es representado por un único nodo.
+-	En un árbol de búsqueda pueden haber varios nodos que representan un mismo estado (Cuando hay varios caminos hacia ese estado).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM4MzUzMiwxNzE0NjQ4MjIwLC0xMT
-M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
-NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
-A5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTE1ODY3OTA2MzcsMTgyNTM4MzUzMiwxNz
+E0NjQ4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQw
+ODg1OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4ND
+k4LC0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
 -->
