@@ -37,20 +37,20 @@ AQUI VA LA IMAGEN PAGINA 7
 
 **Problema 2: 8-puzzle:**
 
-AQUI VA LA IMAGEN PAGINA 7
+AQUI VA LA IMAGEN PAGINA 
 
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
 **- Estado inicial:** Alguna configuración dada del puzzle. 
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
-**- Modelo de transición:** Mapa
+**- Modelo de transición:** NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
-**- Costo del camino:** Puede ser el tiempo, la distancia recorrida, etc.
+**- Costo del camino:** Cada acción cuesta 1. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOT
-E4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3
-Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTM1ODM1MDEwMSwtMTI2MzE2OTgyNiwtMj
+A0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2
+ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 -->
