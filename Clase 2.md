@@ -39,8 +39,8 @@ AQUI VA LA IMAGEN PAGINA 7
 
 AQUI VA LA IMAGEN PAGINA 7
 
-**- Estados:** Todas las posibles ciudades son los estados
-**- Estado inicial:** Ciudad de la que parto.
+**- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
+**- Estado inicial:** Alguna configuración dada del puzzle.
 **- Acciones:** Moverse a  alguna ciudad vecina
 **- Modelo de transición:** Mapa
 **- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
@@ -50,6 +50,7 @@ AQUI VA LA IMAGEN PAGINA 7
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMj
-U5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMD
+QzNTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4
+ODEwXX0=
 -->
