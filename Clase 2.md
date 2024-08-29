@@ -52,10 +52,10 @@ AQUI VA LA IMAGEN PAGINA 8
 AQUI VA LA IMAGEN PAGINA 8
 
 **- Estados:** Configuraciones de 0 a 8 reinas en el tablero. 
-**- Estado inicial:** 0 reinas en e
-**- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
-**- Modelo de transición:** Tablero con reina añadida???NO ENTIENDO
-**- Prueba de objetivo:** Verificar si el estado es el objetivo.
+**- Estado inicial:** 0 reinas en el tablero
+**- Acciones:** Adicionar una reina a un casillero vacío
+**- Modelo de transición:** Nos brinda el tablero con la reina añadida. 
+**- Prueba de objetivo:** Verifica que el estado tenga 8 reinas 
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 64*63*...57= 1.8x10^14
 
@@ -75,7 +75,7 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTMwMDE4OSwxNzE0NjQ4MjIwLC0xMT
+eyJoaXN0b3J5IjpbLTMxMjExNDc1OCwxNzE0NjQ4MjIwLC0xMT
 M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
 NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
 A5LDQ5NzgxODgxMF19
