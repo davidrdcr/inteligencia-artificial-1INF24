@@ -94,15 +94,14 @@ AQUI VA LA IMAGEN PAGINA 8
 	-	Costo del camino desde el nodo raíz
 	-	Profundidad del nodo? Creo que es en qué capa está?
 - La colección de nodos que fueron generados, pero aún no han sido expandidos es llamada **frontera**. 
-
-
+- La forma cómo colocar o sacar nodos de la frontera define **la estrategia de búsqueda**.
 -	
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0MDQ0NTIsMTgyNTM4MzUzMiwxNzE0Nj
-Q4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1
-OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC
-0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbMTI1MDY2MTU0NCwxODI1MzgzNTMyLDE3MT
+Q2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLTIwNDA4
+ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OT
+gsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
