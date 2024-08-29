@@ -42,6 +42,18 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
 **- Estado inicial:** Alguna configuración dada del puzzle. 
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
+**- Modelo de transición:** NO ENTIENDO
+**- Prueba de objetivo:** Verificar si el estado es el objetivo.
+**- Costo del camino:** Cada acción cuesta 1. 
+
+
+**Problema 2: 8-puzzle:**
+
+AQUI VA LA IMAGEN PAGINA 8
+
+**- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
+**- Estado inicial:** Alguna configuración dada del puzzle. 
+**- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
 **- Modelo de transición:** Tablero con reina añadida???NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** -
@@ -61,9 +73,10 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMT
-I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
-NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
-BdfQ==
+eyJoaXN0b3J5IjpbLTEzMjE4OTI1MjksMTcxNDY0ODIyMCwtMT
+EzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3
+ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3OD
+UwOSw0OTc4MTg4MTBdfQ==
 -->
