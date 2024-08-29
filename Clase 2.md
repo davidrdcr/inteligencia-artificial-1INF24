@@ -71,12 +71,17 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 8x7x6x5x4x3x2x1 = 40320
 
+## ¿Cómo buscamos la solución?
+
+ - Debe
+
+Debemos de explorar el espacio de estados mediante el recorrido de un **árbol de búsqueda**. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMjQyNDYzLDE3MTQ2NDgyMjAsLTExMz
-k0MDM4ODksLTEyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3
-MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MD
-ksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE2ODcyNDI1NzUsMTcxNDY0ODIyMCwtMT
+EzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3
+ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3OD
+UwOSw0OTc4MTg4MTBdfQ==
 -->
