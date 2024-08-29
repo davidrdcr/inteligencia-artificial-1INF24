@@ -10,7 +10,11 @@
 	 - Costo de camino
 3. Buscar la solución
 	- Encontrar la secuencia de acciones para llegar un objetivo
+4. Ejecutar la solución
+
+AQUI VA LA IMAGEN PAGINA 5
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0MTA3NjU5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbLTIwNzQ4MTg2MjMsNDk3ODE4ODEwXX0=
 -->
