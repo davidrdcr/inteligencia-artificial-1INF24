@@ -73,15 +73,16 @@ AQUI VA LA IMAGEN PAGINA 8
 
 ## ¿Cómo buscamos la solución?
 
- - Debe
 
-Debemos de explorar el espacio de estados mediante el recorrido de un **árbol de búsqueda**. 
+-	Debemos de explorar el espacio de estados mediante el recorrido de un **árbol de búsqueda**. 
+-	Debemos expandir el estado actual aplicando la función sucesor, generando nuevos estados.
+-	Debemos tener una estrategia de búsqueda que determina el camino a seguir. E
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcyNDI1NzUsMTcxNDY0ODIyMCwtMT
-EzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3
-ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3OD
-UwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbMTQwMjAzODgwNSwxNzE0NjQ4MjIwLC0xMT
+M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
+NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
+A5LDQ5NzgxODgxMF19
 -->
