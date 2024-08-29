@@ -24,11 +24,16 @@ Encontrar la secuencia de acciones para llegar un objetivo
 
 AQUI VA LA IMAGEN PAGINA 7
 
-Problema 1: Busqueda de ruta
+Problema 1: Busqueda de ruta en mapa:
+
+**- Estados:** Todas las posibles ciudades son los estados
+**- Estado inicial:** Ciudad de la que parto.
+**- Acciones:** Moverse a a
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDY2ODEzNCwxMjI1OTY4NDk4LC0xMj
-c0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbOTA2NDIzODYzLDEyMjU5Njg0OTgsLTEyNz
+Q3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
