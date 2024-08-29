@@ -40,7 +40,7 @@ AQUI VA LA IMAGEN PAGINA 7
 AQUI VA LA IMAGEN PAGINA 7
 
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
-**- Estado inicial:** Alguna configuración dada del puzzle.
+**- Estado inicial:** Alguna configuración dada del puzzle. 
 **- Acciones:** Moverse a  alguna ciudad vecina
 **- Modelo de transición:** Mapa
 **- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
@@ -50,7 +50,7 @@ AQUI VA LA IMAGEN PAGINA 7
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMD
-QzNTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4
-ODEwXX0=
+eyJoaXN0b3J5IjpbMTcwMzg5Mzc0MSwtMjA0MDg4NTkzNSw5MT
+g3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3
+ODUwOSw0OTc4MTg4MTBdfQ==
 -->
