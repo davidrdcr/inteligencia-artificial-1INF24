@@ -87,19 +87,22 @@ AQUI VA LA IMAGEN PAGINA 8
 
 ## Estructura de un nodo de un árbol de búsqueda.
 
-El nodo debe incluir la siguiente información:
--	Estado
--	Nodo padre
--	Acción que generó el nodo
--	Costo del camino desde el nodo raíz
--	
+-	El nodo debe incluir la siguiente información:
+	-	Estado
+	-	Nodo padre
+	-	Acción que generó el nodo
+	-	Costo del camino desde el nodo raíz
+	-	Profundidad del nodo? Creo que es en qué capa está?
+- La colección de nodos que fueron generados, pero aún no han sido expandidos es llamada **frontera**. 
+
+
 -	
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODI4MTk5LDE4MjUzODM1MzIsMTcxND
-Y0ODIyMCwtMTEzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4
-NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OC
-wtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbNDM0MDQ0NTIsMTgyNTM4MzUzMiwxNzE0Nj
+Q4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1
+OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC
+0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
 -->
