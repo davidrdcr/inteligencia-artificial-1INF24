@@ -77,6 +77,7 @@ AQUI VA LA IMAGEN PAGINA 8
 -	Debemos expandir el estado actual aplicando la función sucesor, generando nuevos estados.
 -	Debemos tener una **estrategia de búsqueda** que determina el camino a seguir. Es decir, debemos decidir qué nodos se exploran primero y cuáles se dejan para después. 
 
+D
 **Importante: El árbol de búsqueda es distinto a un espacio de estados!**
 
 -	Un nodo del árbol de búsqueda es una estructura de datos que implementa el árbol de búsqueda. 
@@ -84,8 +85,8 @@ AQUI VA LA IMAGEN PAGINA 8
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY3Njg4NSwxNzE0NjQ4MjIwLC0xMT
-M5NDAzODg5LC0xMjYzMTY5ODI2LC0yMDQwODg1OTM1LDkxODc4
-NzM0MCwtMjA0MzU3ODM0NiwxMjI1OTY4NDk4LC0xMjc0Nzc4NT
-A5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbODAzNTU2ODUxLDE3MTQ2NDgyMjAsLTExMz
+k0MDM4ODksLTEyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3
+MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MD
+ksNDk3ODE4ODEwXX0=
 -->
