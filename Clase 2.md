@@ -28,12 +28,15 @@ Problema 1: Busqueda de ruta en mapa:
 
 **- Estados:** Todas las posibles ciudades son los estados
 **- Estado inicial:** Ciudad de la que parto.
-**- Acciones:** Moverse a a
+**- Acciones:** Moverse a  alguna ciudad vecina
+**- Modelo de transición:** Mapa
+**- Prueba de objetivo:** Verificar si se llegó a la ciudad objetivo.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NDIzODYzLDEyMjU5Njg0OTgsLTEyNz
-Q3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTAzNDkwMzUxMCwxMjI1OTY4NDk4LC0xMj
+c0Nzc4NTA5LDQ5NzgxODgxMF19
 -->
