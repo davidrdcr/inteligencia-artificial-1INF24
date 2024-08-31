@@ -98,9 +98,10 @@ AQUI VA LA IMAGEN PAGINA 8
 -	
 
 **Clase thing:**
+
 Tiene dos métodos: is_alive y show_state:
 - **is_alive** devuelve True si el objetivo tiene el atributo alive y si dicho atributo es evaluado como verdadero.
-- **show_state**: Está pensado para mostrar el estado interno del agente. Cualquier subclase que herede de thing debe de sobreescribir este método para 
+- **show_state**: Está pensado para mostrar el estado interno del agente. Cualquier subclase que herede de thing debe sobreescribir este método para proporcionar una implementación más específica.
 
 clase entorno generico: Se definen percerpt
 
@@ -119,9 +120,9 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI1NDE3OSwtMTExMTkyNzg0OSw3MT
-Q4MzMxMSwxMDMxMjE4MDI3LDEyNTA2NjE1NDQsMTgyNTM4MzUz
-MiwxNzE0NjQ4MjIwLC0xMTM5NDAzODg5LC0xMjYzMTY5ODI2LC
-0yMDQwODg1OTM1LDkxODc4NzM0MCwtMjA0MzU3ODM0NiwxMjI1
-OTY4NDk4LC0xMjc0Nzc4NTA5LDQ5NzgxODgxMF19
+eyJoaXN0b3J5IjpbODk4NTAxNjUwLC0xMTExOTI3ODQ5LDcxND
+gzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0NCwxODI1MzgzNTMy
+LDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
+IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
+Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
