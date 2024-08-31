@@ -42,6 +42,7 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Todas las configuraciones posibles de 8 números y un blanco.
 **- Estado inicial:** Alguna configuración dada del puzzle. 
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
+
 **- Modelo de transición:** NO ENTIENDO
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** Cada acción cuesta 1. 
@@ -120,9 +121,10 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NTAxNjUwLC0xMTExOTI3ODQ5LDcxND
-gzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0NCwxODI1MzgzNTMy
-LDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
-IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
-Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTUyMzUyNzUyNCw4OTg1MDE2NTAsLTExMT
+E5Mjc4NDksNzE0ODMzMTEsMTAzMTIxODAyNywxMjUwNjYxNTQ0
+LDE4MjUzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMT
+I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
+NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
+BdfQ==
 -->
