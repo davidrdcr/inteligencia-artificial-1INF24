@@ -99,7 +99,7 @@ AQUI VA LA IMAGEN PAGINA 8
 
 clase thing:
 
-clase entorno: Se definen percerpt
+clase entorno generico: Se definen percerpt
 
 clase buscar problema:
 
@@ -107,7 +107,7 @@ clase nodo:
 
 clase tipo fifo:
 
-clase puzzle (tipo entorno)
+clase puzzle (entorno)
 clase puzzleproblema (problema)
 
 funcion busqueda de grafos
@@ -116,9 +116,9 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0ODMzMTEsMTAzMTIxODAyNywxMjUwNj
-YxNTQ0LDE4MjUzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4
-OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLT
-IwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4
-MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbLTExMTE5Mjc4NDksNzE0ODMzMTEsMTAzMT
+IxODAyNywxMjUwNjYxNTQ0LDE4MjUzODM1MzIsMTcxNDY0ODIy
+MCwtMTEzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNS
+w5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3
+NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 -->
