@@ -69,7 +69,7 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Vector de 8 números no repetidos (permutaciones). Cada elemento indica la fila en que se encuntra la reina en una columna.
 **- Estado inicial:** Permutación aleatoria.
 **- Acciones:** Intercambiar 2 elementos.
-**- Modelo de transición:** -
+**- Modelo de transición:** añadir una reina en cualquier cuadrado en la columna más a la izquierda vacía tal que no sea atacada por cualquier otra reina.
 **- Prueba de objetivo:** Verificar si la nueva permutación tiene reinas no atacadas. 
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 8x7x6x5x4x3x2x1 = 40320
@@ -123,10 +123,10 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE0NTAwMTUsODk4NTAxNjUwLC0xMT
-ExOTI3ODQ5LDcxNDgzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0
-NCwxODI1MzgzNTMyLDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLT
-EyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQz
-NTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4OD
-EwXX0=
+eyJoaXN0b3J5IjpbMTM1NjM5MDIyMiw4OTg1MDE2NTAsLTExMT
+E5Mjc4NDksNzE0ODMzMTEsMTAzMTIxODAyNywxMjUwNjYxNTQ0
+LDE4MjUzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMT
+I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
+NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
+BdfQ==
 -->
