@@ -97,11 +97,15 @@ AQUI VA LA IMAGEN PAGINA 8
 - La forma cómo colocar o sacar nodos de la frontera define **la estrategia de búsqueda**.
 -	
 
-clase thing
-clase entorno
-clase buscar problema
-clase nodo
-clase tipo fifo
+clase thing:
+
+clase entorno: Se definen percerpt
+
+clase buscar problema:
+
+clase nodo:
+
+clase tipo fifo:
 
 clase puzzle (tipo entorno)
 clase puzzleproblema (problema)
@@ -112,9 +116,9 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTIxODAyNywxMjUwNjYxNTQ0LDE4Mj
-UzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMTI2MzE2
-OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzND
-YsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
-
+eyJoaXN0b3J5IjpbNzE0ODMzMTEsMTAzMTIxODAyNywxMjUwNj
+YxNTQ0LDE4MjUzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4
+OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLT
+IwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4
+MTg4MTBdfQ==
 -->
