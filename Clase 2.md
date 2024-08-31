@@ -97,11 +97,18 @@ AQUI VA LA IMAGEN PAGINA 8
 - La forma cómo colocar o sacar nodos de la frontera define **la estrategia de búsqueda**.
 -	
 
+clase thing
+clase entorno
+clase buscar problema
+clase puzzle (tipo entorno)
+clase puzzleproblema ()
+
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDY2MTU0NCwxODI1MzgzNTMyLDE3MT
-Q2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLTIwNDA4
-ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5Njg0OT
-gsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTEzMjQ3OTIxNjQsMTI1MDY2MTU0NCwxOD
+I1MzgzNTMyLDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMx
+Njk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4Mz
+Q2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+
 -->
