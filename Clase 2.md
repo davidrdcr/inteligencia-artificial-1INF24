@@ -98,8 +98,8 @@ AQUI VA LA IMAGEN PAGINA 8
 -	
 
 **Clase thing:**
-Tiene dos métodos: is_alive y show_state.
-
+Tiene dos métodos: is_alive y show_state:
+**is_alive** devuelve True si el objetivo tiene el atributo alive y 
 
 clase entorno generico: Se definen percerpt
 
@@ -118,9 +118,9 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0OTkyMjE3LC0xMTExOTI3ODQ5LDcxND
-gzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0NCwxODI1MzgzNTMy
-LDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
-IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
-Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbLTE1NjQ5Njc0NDQsLTExMTE5Mjc4NDksNz
+E0ODMzMTEsMTAzMTIxODAyNywxMjUwNjYxNTQ0LDE4MjUzODM1
+MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMTI2MzE2OTgyNi
+wtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIy
+NTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 -->
