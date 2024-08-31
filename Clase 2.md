@@ -44,6 +44,8 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Acciones:** Movimientos del casillero blanco: Derecho, Izquierda, Arriba, abajo.
 
 **- Modelo de transición:** NO ENTIENDO
+Generar estados legales que resultan de mover arriba abajo izquierda derecha.
+
 **- Prueba de objetivo:** Verificar si el estado es el objetivo.
 **- Costo del camino:** Cada acción cuesta 1. 
 
@@ -55,7 +57,7 @@ AQUI VA LA IMAGEN PAGINA 8
 **- Estados:** Configuraciones de 0 a 8 reinas en el tablero. 
 **- Estado inicial:** 0 reinas en el tablero
 **- Acciones:** Adicionar una reina a un casillero vacío
-**- Modelo de transición:** Nos brinda el tablero con la reina añadida. 
+**- Modelo de transición:** Añadir una reina a culquier cuadrado vacío.
 **- Prueba de objetivo:** Verifica que el estado tenga 8 reinas no atacadas.
 **- Costo del camino:** -
 **- Posibles secuencias a investigar:** 64*63*...57= 1.8x10^14
@@ -121,10 +123,10 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzUyNzUyNCw4OTg1MDE2NTAsLTExMT
-E5Mjc4NDksNzE0ODMzMTEsMTAzMTIxODAyNywxMjUwNjYxNTQ0
-LDE4MjUzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMT
-I2MzE2OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1
-NzgzNDYsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MT
-BdfQ==
+eyJoaXN0b3J5IjpbLTEwMDE0NTAwMTUsODk4NTAxNjUwLC0xMT
+ExOTI3ODQ5LDcxNDgzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0
+NCwxODI1MzgzNTMyLDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLT
+EyNjMxNjk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQz
+NTc4MzQ2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4OD
+EwXX0=
 -->
