@@ -97,7 +97,9 @@ AQUI VA LA IMAGEN PAGINA 8
 - La forma cómo colocar o sacar nodos de la frontera define **la estrategia de búsqueda**.
 -	
 
-clase thing:
+**Clase thing:**
+Tiene dos métodos: is_alive y show_state.
+
 
 clase entorno generico: Se definen percerpt
 
@@ -116,9 +118,9 @@ funcion busqueda de grafos
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE5Mjc4NDksNzE0ODMzMTEsMTAzMT
-IxODAyNywxMjUwNjYxNTQ0LDE4MjUzODM1MzIsMTcxNDY0ODIy
-MCwtMTEzOTQwMzg4OSwtMTI2MzE2OTgyNiwtMjA0MDg4NTkzNS
-w5MTg3ODczNDAsLTIwNDM1NzgzNDYsMTIyNTk2ODQ5OCwtMTI3
-NDc3ODUwOSw0OTc4MTg4MTBdfQ==
+eyJoaXN0b3J5IjpbNTA0OTkyMjE3LC0xMTExOTI3ODQ5LDcxND
+gzMzExLDEwMzEyMTgwMjcsMTI1MDY2MTU0NCwxODI1MzgzNTMy
+LDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMxNjk4MjYsLT
+IwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4MzQ2LDEyMjU5
+Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
 -->
