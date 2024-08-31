@@ -100,15 +100,21 @@ AQUI VA LA IMAGEN PAGINA 8
 clase thing
 clase entorno
 clase buscar problema
+clase nodo
+clase tipo fifo
+
 clase puzzle (tipo entorno)
-clase puzzleproblema ()
+clase puzzleproblema (problema)
+
+funcion busqueda de grafos
+
 
 	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3OTIxNjQsMTI1MDY2MTU0NCwxOD
-I1MzgzNTMyLDE3MTQ2NDgyMjAsLTExMzk0MDM4ODksLTEyNjMx
-Njk4MjYsLTIwNDA4ODU5MzUsOTE4Nzg3MzQwLC0yMDQzNTc4Mz
-Q2LDEyMjU5Njg0OTgsLTEyNzQ3Nzg1MDksNDk3ODE4ODEwXX0=
+eyJoaXN0b3J5IjpbMTAzMTIxODAyNywxMjUwNjYxNTQ0LDE4Mj
+UzODM1MzIsMTcxNDY0ODIyMCwtMTEzOTQwMzg4OSwtMTI2MzE2
+OTgyNiwtMjA0MDg4NTkzNSw5MTg3ODczNDAsLTIwNDM1NzgzND
+YsMTIyNTk2ODQ5OCwtMTI3NDc3ODUwOSw0OTc4MTg4MTBdfQ==
 
 -->
