@@ -15,8 +15,9 @@ Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo
 
 **Algoritmos bioinspirados**
 
- - Particle Swarm Optimization
- - Artificial Bee Colony
+ - Particle Swarm Optimization: Conjunto de técnicas inspiradas en el comportamiento social de bandadas de aves, banco de peces y otros. 
+ 
+ - Artificial Bee Colony: Conj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5NjQ2NDM5LC02MDIxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbLTk1NDA3NjE4NSwtNjAyMTQ2NzExXX0=
 -->
