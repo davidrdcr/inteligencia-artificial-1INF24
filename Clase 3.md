@@ -69,9 +69,9 @@ Búsqueda en grafos.
 
 Si f(n) = g(n), búsqueda de costo uniforme. 
 
-h(n) = 
+h(n) = es estimado. Búsqueda voraz, codiciosa. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzk3MjUwOSw4NjY2OTQyMjYsLTE1MD
-M5MjM5NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5
-OTkwLC02MDIxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbOTg5Njk0NjgyLDg2NjY5NDIyNiwtMTUwMz
+kyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5
+OTAsLTYwMjE0NjcxMV19
 -->
