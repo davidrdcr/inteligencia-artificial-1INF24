@@ -75,9 +75,9 @@ La búsqueda codiciosa expande el nodo en la frontera con menor h(n), o sea, el 
 
 Algoritmo óptimamente eficiente: No hay otro mejor. 
 
-p
+Perdemos garantía de optimalidad. Podría haber un camino más corto. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMjE0MDYzLC0xOTY4MzA4MTY3LDg2Nj
-Y5NDIyNiwtMTUwMzkyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0
-MDg4LDE2MTc3OTk5OTAsLTYwMjE0NjcxMV19
+eyJoaXN0b3J5IjpbMTk2MzM3Mjc0MywtMTk2ODMwODE2Nyw4Nj
+Y2OTQyMjYsLTE1MDM5MjM5NDIsLTEzNjkxNjY4MDgsLTMyNDkw
+NDA4OCwxNjE3Nzk5OTkwLC02MDIxNDY3MTFdfQ==
 -->
