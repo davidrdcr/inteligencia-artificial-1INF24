@@ -9,8 +9,8 @@ Escoje **aleatoriamente** el sucesor con probabilidad proporcional al aumento de
 Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleatoriamente. 
 
 **Método Simulated Annealing**
-Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleatoriamente. 
-
+Combina hill-climbing con caminos aleatorios.
+Tenemos el problema y una función de schedu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5ODQ0MDM3XX0=
+eyJoaXN0b3J5IjpbLTUxMDU5NDI3Ml19
 -->
