@@ -77,9 +77,10 @@ Algoritmo óptimamente eficiente: No hay otro mejor.
 
 Perdemos garantía de optimalidad. Podría haber un camino más corto. 
 
-
+Puede ser completa. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk5MzI3NjUsLTE5NjgzMDgxNjcsOD
-Y2Njk0MjI2LC0xNTAzOTIzOTQyLC0xMzY5MTY2ODA4LC0zMjQ5
-MDQwODgsMTYxNzc5OTk5MCwtNjAyMTQ2NzExXX0=
+eyJoaXN0b3J5IjpbMTE0MTI4ODc5NywtMTE2OTkzMjc2NSwtMT
+k2ODMwODE2Nyw4NjY2OTQyMjYsLTE1MDM5MjM5NDIsLTEzNjkx
+NjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MDIxNDY3MT
+FdfQ==
 -->
