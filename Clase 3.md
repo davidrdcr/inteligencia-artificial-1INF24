@@ -82,10 +82,14 @@ Puede ser completa. ¿Necesitamos explored_set? Va a explorar todo hasta la máx
 La heurística debe ser admisible. Debe hacer búsqueda tree-seach sin memoria. Si se hace con graph seach, tengo que asegurar 
 
 Una heurística es admisible si nunca sobreestima el precio real. ¿Cuál es el costo real? Puede ser la distancia en línea recta, si hay un línea más corta, entonces no es admisible. 
-La línea recta es una heurística admisible porque nunca nos va
+La línea recta es una heurística admisible porque nunca nos va a dar valores mayores al precio real. 
+La heurística siempre es optimista.
+¿qué pasa si usamos la distancia manhatan? 
+
+Admisi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDY4NTExMCwyNTUwMDMwMzAsLTExNj
-k5MzI3NjUsLTE5NjgzMDgxNjcsODY2Njk0MjI2LC0xNTAzOTIz
-OTQyLC0xMzY5MTY2ODA4LC0zMjQ5MDQwODgsMTYxNzc5OTk5MC
-wtNjAyMTQ2NzExXX0=
+eyJoaXN0b3J5IjpbNzQ1NjI3NTY0LDI1NTAwMzAzMCwtMTE2OT
+kzMjc2NSwtMTk2ODMwODE2Nyw4NjY2OTQyMjYsLTE1MDM5MjM5
+NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC
+02MDIxNDY3MTFdfQ==
 -->
