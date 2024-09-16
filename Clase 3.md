@@ -56,12 +56,12 @@ Máximo número de iteraciones maxlter:
 
 Amplitud: Se busca la solución más cercana. Lo primero que se pierde acá es la memoria.  
 
-Search problem tenía tres métodos
-Resolve
-Search_action
-Goal_test
+Search problem tenía tres métodos (Resolve, Search_action, Goal_test). Con eso hacía la expanción de todo el árbol. 
+G(n) costo del camino. En el arbol, todo nodo tiene una única ruta hacia la raíz. Si hay grafo tiene una sola 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTAxOTcyNCwtMTUwMzkyMzk0MiwtMT
-M2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5OTAsLTYwMjE0
-NjcxMV19
+eyJoaXN0b3J5IjpbODY2Njk0MjI2LC0xNTAzOTIzOTQyLC0xMz
+Y5MTY2ODA4LC0zMjQ5MDQwODgsMTYxNzc5OTk5MCwtNjAyMTQ2
+NzExXX0=
 -->
