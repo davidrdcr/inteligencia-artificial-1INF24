@@ -6,10 +6,11 @@ Llega a un lugar, si sus vecinos son peores, se estanca ahí. Es codicioso.
 Escoje **aleatoriamente** el sucesor con probabilidad proporcional al aumento de la función objetivo. 
 
 **Método Random-restart hill-climbing**
-Ejecuta varias búsquedas a partir de 
+Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleatoriamente. 
 
+**Método Simulated Annealing**
+Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleatoriamente. 
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODQ4NzU1M119
+eyJoaXN0b3J5IjpbNDU5ODQ0MDM3XX0=
 -->
