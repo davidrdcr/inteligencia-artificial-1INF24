@@ -8,7 +8,7 @@ Escoje **aleatoriamente** el sucesor con probabilidad proporcional al aumento de
 **Método Random-restart hill-climbing**
 Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleatoriamente. 
 
-**Método Simulated Annealing**
+**Método Simulated Annealing** Toman este 
 Combina hill-climbing con caminos aleatorios.
 Tenemos el problema y una función de schedule. La función de schedule es la temperatura. La temperatura está relacionado con qué tan probable es que escojamos vecinos malos. A medida que va avanzando es menos probable de que acepte vecinos malos. Ese decaimiento nosotros elegimos.
 Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo que tiene. Escoje un sucesor aleatorio. Sin necesidad de crear un vecindario. Revisa su función objetivo, si el next tiene una función objetivo, Entonces el next se vuelve el current.
@@ -36,6 +36,6 @@ Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo
 
  - Ant colony Optimization: Conjunto de técnicas inspiradas por las actividades de una colonia de hormigas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MD
-IxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNj
+E3Nzk5OTkwLC02MDIxNDY3MTFdfQ==
 -->
