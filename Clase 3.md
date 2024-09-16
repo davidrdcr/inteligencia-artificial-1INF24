@@ -65,10 +65,12 @@ La heurística mide el costo para llegar al objetivo. Si es cero, es porque ya l
 No todas las heurísticas sirven.
 Búsqueda en grafos.
 
-¿Qué nodo de la frontera visito?. El que tenga menos funció 
+¿Qué nodo de la frontera visito?. El que tenga menos función de evaluación.
+
+Si f(n) = g(n), búsqued de costo uniforme. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTkzODY0Niw4NjY2OTQyMjYsLTE1MD
+eyJoaXN0b3J5IjpbMTgzNjU3OTQxMiw4NjY2OTQyMjYsLTE1MD
 M5MjM5NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5
 OTkwLC02MDIxNDY3MTFdfQ==
 -->
