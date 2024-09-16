@@ -53,7 +53,13 @@ Máximo número de iteraciones maxlter:
 
 
  - Ant colony Optimization: Conjunto de técnicas inspiradas por las actividades de una colonia de hormigas.
+
+Amplitud: Se busca la solución más cercana. Lo primero que se pierde acá es la memoria.
+
+Si no conocemos la profundidad
+En búsqueda
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM5MjM5NDIsLTEzNjkxNjY4MDgsLT
-MyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MDIxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbLTU2NTg2NzY5NCwtMTUwMzkyMzk0MiwtMT
+M2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5OTAsLTYwMjE0
+NjcxMV19
 -->
