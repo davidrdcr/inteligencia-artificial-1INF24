@@ -11,7 +11,7 @@ Ejecuta varias búsquedas a partir de varios estados iniciales escogidos aleator
 **Método Simulated Annealing**
 Combina hill-climbing con caminos aleatorios.
 Tenemos el problema y una función de schedule. La función de schedule es la temperatura. La temperatura está relacionado con qué tan probable es que escojamos vecinos malos. A medida que va avanzando es menos probable de que acepte vecinos malos. Ese decaimiento nosotros elegimos.
-Primero generamos un nodo inicial. 
+Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo que tiene. Escoje un sucesor aleatorio. Sin necesidad de crear un vecindario. Revisa su función objetivo, si el next tiene una función obj
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDMxMTA3Nl19
+eyJoaXN0b3J5IjpbLTE4MjI5MzM5ODRdfQ==
 -->
