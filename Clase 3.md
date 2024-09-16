@@ -67,11 +67,11 @@ Búsqueda en grafos.
 
 ¿Qué nodo de la frontera visito?. El que tenga menos función de evaluación.
 
-Si f(n) = g(n), búsqued de costo uniforme. 
+Si f(n) = g(n), búsqueda de costo uniforme. 
 
-
+h(n) = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NDg0MTk4Niw4NjY2OTQyMjYsLTE1MD
+eyJoaXN0b3J5IjpbLTgyMzk3MjUwOSw4NjY2OTQyMjYsLTE1MD
 M5MjM5NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5
 OTkwLC02MDIxNDY3MTFdfQ==
 -->
