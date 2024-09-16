@@ -74,8 +74,10 @@ h(n) = es estimado. Búsqueda voraz, codiciosa.
 La búsqueda codiciosa expande el nodo en la frontera con menor h(n), o sea, el que parece que está más próximo al objetivo de acuerdo a la función heurística.
 
 Algoritmo óptimamente eficiente: No hay otro mejor. 
+
+p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgzMDgxNjcsODY2Njk0MjI2LC0xNT
-AzOTIzOTQyLC0xMzY5MTY2ODA4LC0zMjQ5MDQwODgsMTYxNzc5
-OTk5MCwtNjAyMTQ2NzExXX0=
+eyJoaXN0b3J5IjpbMzUxMjE0MDYzLC0xOTY4MzA4MTY3LDg2Nj
+Y5NDIyNiwtMTUwMzkyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0
+MDg4LDE2MTc3OTk5OTAsLTYwMjE0NjcxMV19
 -->
