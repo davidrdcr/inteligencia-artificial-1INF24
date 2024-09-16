@@ -86,10 +86,10 @@ La línea recta es una heurística admisible porque nunca nos va a dar valores m
 La heurística siempre es optimista.
 ¿qué pasa si usamos la distancia manhatan? 
 
-Admisi
+Admisible y optimista, pero nunca debe de ser pesimista. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NjI3NTY0LDI1NTAwMzAzMCwtMTE2OT
-kzMjc2NSwtMTk2ODMwODE2Nyw4NjY2OTQyMjYsLTE1MDM5MjM5
-NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC
-02MDIxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NjQ3Mzk3MjUsMjU1MDAzMDMwLC0xMT
+Y5OTMyNzY1LC0xOTY4MzA4MTY3LDg2NjY5NDIyNiwtMTUwMzky
+Mzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5OT
+AsLTYwMjE0NjcxMV19
 -->
