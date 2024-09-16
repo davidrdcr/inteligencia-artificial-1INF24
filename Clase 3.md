@@ -61,9 +61,14 @@ G(n) costo del camino. En el arbol, todo nodo tiene una única ruta hacia la ra�
 
 La heurística mide el costo para llegar al objetivo. Si es cero, es porque ya llegué al objetivo.
 
-No todas las 
+
+No todas las heurísticas sirven.
+Búsqueda en grafos.
+
+¿Qué nodo de la frontera visito?. El que tenga menos funció 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzE1NzA2LDg2NjY5NDIyNiwtMTUwMz
-kyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5
-OTAsLTYwMjE0NjcxMV19
+eyJoaXN0b3J5IjpbLTg1NTkzODY0Niw4NjY2OTQyMjYsLTE1MD
+M5MjM5NDIsLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5
+OTkwLC02MDIxNDY3MTFdfQ==
 -->
