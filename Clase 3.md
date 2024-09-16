@@ -77,10 +77,10 @@ Algoritmo óptimamente eficiente: No hay otro mejor.
 
 Perdemos garantía de optimalidad. Podría haber un camino más corto. 
 
-Puede ser completa. 
+Puede ser completa. ¿Necesitamos explored_set? Va a explorar todo hasta la máxima profundidad posible. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTI4ODc5NywtMTE2OTkzMjc2NSwtMT
-k2ODMwODE2Nyw4NjY2OTQyMjYsLTE1MDM5MjM5NDIsLTEzNjkx
-NjY4MDgsLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MDIxNDY3MT
-FdfQ==
+eyJoaXN0b3J5IjpbMjU1MDAzMDMwLC0xMTY5OTMyNzY1LC0xOT
+Y4MzA4MTY3LDg2NjY5NDIyNiwtMTUwMzkyMzk0MiwtMTM2OTE2
+NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5OTAsLTYwMjE0NjcxMV
+19
 -->
