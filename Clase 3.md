@@ -19,7 +19,23 @@ Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo
  
  - Artificial Bee Colony: Conjunto de técnicas inspiradas por las actividades de una colonia de abejas. 
  
+ Se optimiza la ubicación de las partículas 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  - Ant colony Optimization: Conjunto de técnicas inspiradas por las actividades de una colonia de hormigas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzc5OTk5MCwtNjAyMTQ2NzExXX0=
+eyJoaXN0b3J5IjpbLTMyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MD
+IxNDY3MTFdfQ==
 -->
