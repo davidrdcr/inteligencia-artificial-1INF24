@@ -59,9 +59,11 @@ Amplitud: Se busca la solución más cercana. Lo primero que se pierde acá es l
 Search problem tenía tres métodos (Resolve, Search_action, Goal_test). Con eso hacía la expanción de todo el árbol. 
 G(n) costo del camino. En el arbol, todo nodo tiene una única ruta hacia la raíz. Si hay grafo tiene una sola 
 
+La heurística mide el costo para llegar al objetivo. Si es cero, es porque ya llegué al objetivo.
 
+No todas las 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2Njk0MjI2LC0xNTAzOTIzOTQyLC0xMz
-Y5MTY2ODA4LC0zMjQ5MDQwODgsMTYxNzc5OTk5MCwtNjAyMTQ2
-NzExXX0=
+eyJoaXN0b3J5IjpbMTg4MzE1NzA2LDg2NjY5NDIyNiwtMTUwMz
+kyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5
+OTAsLTYwMjE0NjcxMV19
 -->
