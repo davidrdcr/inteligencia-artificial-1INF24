@@ -17,7 +17,9 @@ Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo
 
  - Particle Swarm Optimization: Conjunto de técnicas inspiradas en el comportamiento social de bandadas de aves, banco de peces y otros. 
  
- - Artificial Bee Colony: Conj
+ - Artificial Bee Colony: Conjunto de técnicas inspiradas por las actividades de una colonia de abejas. 
+ 
+ - Ant colony Optimization: Conjunto de técnicas inspiradas por las actividades de una colonia de hormigas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDA3NjE4NSwtNjAyMTQ2NzExXX0=
+eyJoaXN0b3J5IjpbMTYxNzc5OTk5MCwtNjAyMTQ2NzExXX0=
 -->
