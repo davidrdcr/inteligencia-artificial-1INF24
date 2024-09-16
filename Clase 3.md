@@ -71,8 +71,9 @@ Si f(n) = g(n), búsqueda de costo uniforme.
 
 h(n) = es estimado. Búsqueda voraz, codiciosa.
 
+La búsqueda codiciosa expande el nodo en la frontera con menor h(n), o sea, el que parece que está más próximo al objetivo de acuerdo a la función
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2NTYzOTEyLDg2NjY5NDIyNiwtMTUwMz
+eyJoaXN0b3J5IjpbMjc3NzIyNDM3LDg2NjY5NDIyNiwtMTUwMz
 kyMzk0MiwtMTM2OTE2NjgwOCwtMzI0OTA0MDg4LDE2MTc3OTk5
 OTAsLTYwMjE0NjcxMV19
 -->
