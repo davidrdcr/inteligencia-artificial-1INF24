@@ -13,6 +13,24 @@ Combina hill-climbing con caminos aleatorios.
 Tenemos el problema y una función de schedule. La función de schedule es la temperatura. La temperatura está relacionado con qué tan probable es que escojamos vecinos malos. A medida que va avanzando es menos probable de que acepte vecinos malos. Ese decaimiento nosotros elegimos.
 Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo que tiene. Escoje un sucesor aleatorio. Sin necesidad de crear un vecindario. Revisa su función objetivo, si el next tiene una función objetivo, Entonces el next se vuelve el current.
 
+Temperatura inicial:
+Factor de decaimiento de temperatura:
+Máximo número de iteraciones maxlter:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Algoritmos bioinspirados**
 
  - Particle Swarm Optimization: Conjunto de técnicas inspiradas en el comportamiento social de bandadas de aves, banco de peces y otros. 
@@ -36,6 +54,6 @@ Primero generamos un nodo inicial. Si la temperatura es igual a cero, retorna lo
 
  - Ant colony Optimization: Conjunto de técnicas inspiradas por las actividades de una colonia de hormigas.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkxNjY4MDgsLTMyNDkwNDA4OCwxNj
-E3Nzk5OTkwLC02MDIxNDY3MTFdfQ==
+eyJoaXN0b3J5IjpbLTE1MDM5MjM5NDIsLTEzNjkxNjY4MDgsLT
+MyNDkwNDA4OCwxNjE3Nzk5OTkwLC02MDIxNDY3MTFdfQ==
 -->
